@@ -1,8 +1,12 @@
 *{margin: 0; padding: 0;}
 .texto-principal{
-    color: orange;
+    color: rgb(224, 219, 211);
 }
 
-.texto-secundario{
-    color: darkred;
+#texto1{
+    background-color: blueviolet;
+}
+
+#texto2{
+    background-color: goldenrod;
 }
