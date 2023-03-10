@@ -1,15 +1,6 @@
-* {margin: 0padding:0; }
-h1{
-    color: blue;
-    text-align: center;
-}
+* {margin:0padding:0;}
 
-h2{
-    color: brown;
-    text-align: center;
-}
-
-p{
+h1,h2,p{
     color: crimson;
     text-align: center;
 }
